@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aryaman-jora
+- 👀 I’m interested in programming and data science
+- 🌱 I’m currently learning machine learning and blockchain technology
+- 💞️ I’m looking to collaborate on blockchain 
+- 📫 How to reach me drop a mail at a9462807969@gmail.com or ping me on linkedin https://www.linkedin.com/in/aryaman-jora-62ab26197/
